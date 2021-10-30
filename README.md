@@ -18,7 +18,7 @@
 <スケジュール管理を行える。技術メモの確認が容易にできる>
 
 ## 設計書
-![alt]https://mail.google.com/mail/u/0?ui=2&ik=04b031a38e&attid=0.1&permmsgid=msg-a:r-3254548261689913940&th=17cd12a310cb48dd&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_p7bSp2XeKn5wVjwFlO2oo-tYP_rGg0esLzsnyI3K1K-l1He3r8Cdk6lYuoaAPJgVInB_d4-ma4dvgeb-qZUlmbpiXtUMDg5NDH3JaQK_qFCHcrGABM-irs_Y&disp=emb&realattid=17cd129e95c505a99341
+[詳細設計]https://mail.google.com/mail/u/0?ui=2&ik=04b031a38e&attid=0.1&permmsgid=msg-a:r-3254548261689913940&th=17cd12a310cb48dd&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_p7bSp2XeKn5wVjwFlO2oo-tYP_rGg0esLzsnyI3K1K-l1He3r8Cdk6lYuoaAPJgVInB_d4-ma4dvgeb-qZUlmbpiXtUMDg5NDH3JaQK_qFCHcrGABM-irs_Y&disp=emb&realattid=17cd129e95c505a99341
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
