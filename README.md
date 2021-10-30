@@ -31,5 +31,5 @@ https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofj
 - IDE：Cloud9
 
 ## 使用素材
-- 
-- 
+- 現時点では素材は未定です
+- 実装しながら必要な画像などをこちらに記載していきます。
