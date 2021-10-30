@@ -18,7 +18,7 @@
 <スケジュール管理を行える。技術メモの確認が容易にできる>
 
 ## 設計書
-![詳細設計]（detail.jpeg）
+![詳細設計]（ ${detail.jpeg}）
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
