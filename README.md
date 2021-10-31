@@ -19,7 +19,6 @@
 
 ## 設計書
 ![details](https://user-images.githubusercontent.com/86521768/139567737-314dde11-884c-428e-adfa-5e6c000d8f97.jpeg)
-dvgeb-qZUlmbpiXtUMDg5NDH3JaQK_qFCHcrGABM-irs_Y&disp=emb&realattid=17cd129e95c505a99341)
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
