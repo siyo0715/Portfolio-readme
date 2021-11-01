@@ -21,7 +21,7 @@
 - スケジュールの確認をするとき
 - 技術メモをするとき
 ## 設計書
-![p_detail](https://user-images.githubusercontent.com/86521768/139671420-f567d46f-10cc-4513-a2f9-91596d35f76a.jpeg)
+![details1](https://user-images.githubusercontent.com/86521768/139672217-f036b01c-e601-4f78-b476-eabe518600ee.jpeg)
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
