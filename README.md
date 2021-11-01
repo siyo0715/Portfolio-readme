@@ -20,7 +20,7 @@
 ### 主な利用シーン
 - スケジュールの確認をするとき
 - 技術メモをするとき
-## 設計書とER図
+## 詳細設計書とER図
 ![p_detail](https://user-images.githubusercontent.com/86521768/139682625-81865f9d-e920-4234-873a-17a90d573e70.jpeg)
 ![erzu](https://user-images.githubusercontent.com/86521768/139675667-9281601e-5df9-42fd-8564-f097cc32f80f.jpeg)
 ## チャレンジ要素一覧
