@@ -22,7 +22,7 @@
 - 技術メモをするとき
 ## 設計書とER図
 ![detail](https://user-images.githubusercontent.com/86521768/139674714-2f6f6e2a-6fe5-43d6-8e8e-88f60c20f6dd.jpeg)
-![er](https://user-images.githubusercontent.com/86521768/139673396-ba1a7363-1ce3-42f9-9d28-f354f4ff119d.jpeg)
+![erzu](https://user-images.githubusercontent.com/86521768/139675667-9281601e-5df9-42fd-8564-f097cc32f80f.jpeg)
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
