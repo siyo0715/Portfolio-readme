@@ -21,7 +21,7 @@
 - スケジュールの確認をするとき
 - 技術メモをするとき
 ## 詳細設計書とER図
-<img width="984" alt="スクリーンショット 2021-11-17 23 48 52" src="https://user-images.githubusercontent.com/86521768/142223433-ad1eca4f-ea67-433b-bee9-c3cd00745cc8.png">
+<img width="986" alt="スクリーンショット 2021-11-17 23 55 00" src="https://user-images.githubusercontent.com/86521768/142224328-179f73df-3949-4d9a-bda3-4d9f808f4c2d.png">
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
