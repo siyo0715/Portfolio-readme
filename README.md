@@ -22,6 +22,8 @@
 - 技術メモをするとき
 ## 詳細設計書とER図
 <img width="986" alt="スクリーンショット 2021-11-17 23 55 00" src="https://user-images.githubusercontent.com/86521768/142224328-179f73df-3949-4d9a-bda3-4d9f808f4c2d.png">
+## 要件定義
+<img width="538" alt="スクリーンショット 2021-11-20 1 49 38" src="https://user-images.githubusercontent.com/86521768/142660863-c8dec2a6-63a9-418a-84e0-29be6b268e32.png">
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
