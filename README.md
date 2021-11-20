@@ -20,7 +20,7 @@
 ### 主な利用シーン
 - スケジュールの確認をするとき
 - 技術メモをするとき
-## 要件定義
+## 要件定義と詳細設計
 <img width="538" alt="スクリーンショット 2021-11-20 17 42 00" src="https://user-images.githubusercontent.com/86521768/142720259-29f17c2a-8f77-4fce-9c5f-47ee995a1068.png">
 要件定義機能一覧
 <img width="526" alt="スクリーンショット 2021-11-20 1 56 40" src="https://user-images.githubusercontent.com/86521768/142661658-49eb86f5-e5f2-43f9-be31-c22a07787674.png">
