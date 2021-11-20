@@ -21,15 +21,15 @@
 - スケジュールの確認をするとき
 - 技術メモをするとき
 ## 要件定義
-<img width="540" alt="スクリーンショット 2021-11-20 11 02 42" src="https://user-images.githubusercontent.com/86521768/142710605-a1cbde51-e847-449e-9665-d0e806dbcb7d.png">
-## 要件定義機能一覧
+<img width="538" alt="スクリーンショット 2021-11-20 17 42 00" src="https://user-images.githubusercontent.com/86521768/142720259-29f17c2a-8f77-4fce-9c5f-47ee995a1068.png">
+要件定義機能一覧
 <img width="526" alt="スクリーンショット 2021-11-20 1 56 40" src="https://user-images.githubusercontent.com/86521768/142661658-49eb86f5-e5f2-43f9-be31-c22a07787674.png">
-## 詳細設計書
+詳細設計書
 <img width="986" alt="スクリーンショット 2021-11-17 23 55 00" src="https://user-images.githubusercontent.com/86521768/142224328-179f73df-3949-4d9a-bda3-4d9f808f4c2d.png">
-## チャレンジ要素一覧
+チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
-## 開発環境
+開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,Scss,JavaScript,Ruby,SQLite
 - フレームワーク：Ruby on Rails
