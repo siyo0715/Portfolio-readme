@@ -28,7 +28,7 @@
 
 ### 詳細設計
 <img width="986" alt="スクリーンショット 2021-11-17 23 55 00" src="https://user-images.githubusercontent.com/86521768/142224328-179f73df-3949-4d9a-bda3-4d9f808f4c2d.png">
- ER図1
+###  ER図1
 <img width="641" alt="スクリーンショット 2021-11-24 22 24 10" src="https://user-images.githubusercontent.com/86521768/143246919-5c04fe15-6dde-4b80-bb3c-d0d14642b641.png">
 
 チャレンジ要素一覧
