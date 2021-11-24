@@ -32,6 +32,9 @@
 ### ER図1
 <img width="641" alt="スクリーンショット 2021-11-24 22 24 10" src="https://user-images.githubusercontent.com/86521768/143246919-5c04fe15-6dde-4b80-bb3c-d0d14642b641.png">
 
+### ER図2
+<img width="759" alt="スクリーンショット 2021-11-24 23 01 49" src="https://user-images.githubusercontent.com/86521768/143252744-affa8de2-1554-40a8-bd58-a9983eb554e8.png">
+
 チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
