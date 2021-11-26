@@ -21,7 +21,7 @@
 - スケジュールの確認をするとき
 - 技術メモをするとき
 ### 要件定義
-<img width="590" alt="スクリーンショット 2021-11-26 22 01 17" src="https://user-images.githubusercontent.com/86521768/143585122-e686541e-d284-4d76-99ed-72c9dd27912b.png">
+<img width="592" alt="スクリーンショット 2021-11-26 22 08 52" src="https://user-images.githubusercontent.com/86521768/143586014-187bd81d-b941-4743-b141-4a713613e372.png">
 
 ### 機能一覧
 <img width="536" alt="スクリーンショット 2021-11-26 22 06 28" src="https://user-images.githubusercontent.com/86521768/143585730-fd988456-0165-44a1-955b-f39d022a3714.png">
