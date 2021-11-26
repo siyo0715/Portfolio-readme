@@ -47,7 +47,5 @@ https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofj
 - IDE：Cloud9
 
 ## 使用素材
--shutterstock　（https://www.shutterstock.com/ja/home）<br>
--AdobeStock　（https://stock.adobe.com/jp/?ef_id=CjwKCAiAqIKNBhAIEiwAu_ZLDiulwHTP87eDGqT0SIx_ZjZJ_2j4g9c0mQJ2wKnDgQaJuMgRhJ4rhxoCn3MQAvD_BwE:G:s&s_kwcid=AL!3085!3!506594749087!e!!g!!adobe%20%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF!1758194095!68475209203&as_channel=sem&as_campclass=brand&as_campaign=JP|CPRO|Stock|PURCH|New_&_Repeat_Buyers-RLSA_Brand|GG||&as_source=google&as_camptype=acquisition&sdid=4SC9994W&mv=search&gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDiulwHTP87eDGqT0SIx_ZjZJ_2j4g9c0mQJ2wKnDgQaJuMgRhJ4rhxoCn3MQAvD_BwE）
--
--
+-<a href="https://www.shutterstock.com/ja/home"　target="_blank">shutterstock</a>
+-<a href="https://stock.adobe.com/jp/?ef_id=CjwKCAiAqIKNBhAIEiwAu_ZLDiulwHTP87eDGqT0SIx_ZjZJ_2j4g9c0mQJ2wKnDgQaJuMgRhJ4rhxoCn3MQAvD_BwE:G:s&s_kwcid=AL!3085!3!506594749087!e!!g!!adobe%20%E3%82%B9%E3%83%88%E3%83%83%E3%82%AF!1758194095!68475209203&as_channel=sem&as_campclass=brand&as_campaign=JP|CPRO|Stock|PURCH|New_&_Repeat_Buyers-RLSA_Brand|GG||&as_source=google&as_camptype=acquisition&sdid=4SC9994W&mv=search&gclid=CjwKCAiAqIKNBhAIEiwAu_ZLDiulwHTP87eDGqT0SIx_ZjZJ_2j4g9c0mQJ2wKnDgQaJuMgRhJ4rhxoCn3MQAvD_BwE"　target="_blank">AdobeStock　</a>
