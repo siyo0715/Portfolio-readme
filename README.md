@@ -24,7 +24,7 @@
 <img width="590" alt="スクリーンショット 2021-11-26 22 01 17" src="https://user-images.githubusercontent.com/86521768/143585122-e686541e-d284-4d76-99ed-72c9dd27912b.png">
 
 ### 機能一覧
-<img width="542" alt="スクリーンショット 2021-11-23 18 30 41" src="https://user-images.githubusercontent.com/86521768/143000221-7a49ac37-c934-4336-9d3b-0305aaa6ca25.png">
+<img width="536" alt="スクリーンショット 2021-11-26 22 06 28" src="https://user-images.githubusercontent.com/86521768/143585730-fd988456-0165-44a1-955b-f39d022a3714.png">
 
 ### ER図1
 <img width="641" alt="スクリーンショット 2021-11-24 22 24 10" src="https://user-images.githubusercontent.com/86521768/143246919-5c04fe15-6dde-4b80-bb3c-d0d14642b641.png">
