@@ -1,5 +1,7 @@
 # _『HairSkill』_
 
+<img width="300"  height="150" alt="スクリーンショット 2021-11-28 19 43 09" src="https://user-images.githubusercontent.com/86521768/143764589-b49269f6-96db-4e41-86dd-68724bf14c30.png"><img width="300"  height="150" alt="スクリーンショット 2021-11-28 18 56 39" src="https://user-images.githubusercontent.com/86521768/143763418-a81536f2-99c7-471c-b9e8-6cd3583fcc7a.png"><img width="150" height="150" alt="スクリーンショット 2021-11-28 19 09 01" src="https://user-images.githubusercontent.com/86521768/143763729-56f79449-4dbb-4d0f-98be-090a747d83b6.png"><img width="100" height="150" alt="スクリーンショット 2021-11-28 18 42 34" src="https://user-images.githubusercontent.com/86521768/143763067-ce972cf1-57ab-43b6-ae7a-33ace1be3b89.png"><img img width="100" height="150" alt="スクリーンショット 2021-11-28 19 33 57" src="https://user-images.githubusercontent.com/86521768/143764357-9b363e42-46fd-4aee-a95e-ad5e1ea633de.png">
+
 ## サイト概要
 美容師の方向けのアプリ、カレンダースケジュール管理（メモ付き）、カットやカラーの技術写真のアップロード、
 美容師としての技術メモはもちろん、スケジュール通りに行動できることも実力と感じており、"HairSkill"と名付けました。
@@ -29,6 +31,7 @@
 ### 主な利用シーン
 - スケジュールの確認をするとき
 - 技術メモをするとき
+- 技術の時間を測りたい時など
 
 ---------------------------------------------------------------------------------------------------------------
 ### 要件定義
@@ -50,7 +53,6 @@
 <img width="603" alt="スクリーンショット 2021-11-26 23 06 59" src="https://user-images.githubusercontent.com/86521768/143593087-7c6a22db-6477-4a94-9a35-22b9f6e3aacf.png">
 
 
-
 チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofjIGU/edit#gid=0
 
@@ -61,11 +63,16 @@ https://docs.google.com/spreadsheets/d/1FWOrS2cK1d-Fk9CpCJjvu5aGCFHk8eWRMc6uaofj
 - 言語：HTML,CSS,Scss,JavaScript,Ruby,SQLite
 - フレームワーク：Ruby on Rails
 - JSライブラリ：jQuery
-- IDE：Cloud9
-
 ---------------------------------------------------------------------------------------------------------------
 
 ## 使用素材
 
 - shuterstock
 - AdobeStock
+
+---------------------------------------------------------------------------------------------------------------
+
+## 私について
+
+https://github.com/siyo0715/siyo0715/blob/main/README.md
+
